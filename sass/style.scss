@@ -1,0 +1,15 @@
+//Main Style
+@import "bootstrap/functions";
+@import "pages/customVariables";
+@import "bootstrap/bootstrap.scss";
+
+// Plugins
+@import "plugins/lightslider";
+
+// pages
+@import "pages/mixin";
+@import "pages/all";
+@import "pages/font";
+@import "pages/header";
+@import "pages/home";
+@import "pages/footer";

@@ -1,0 +1,18 @@
+
+@font-face {
+    font-family: 'GE Heritage Two';
+    src: url('../fonts/GEHeritageTwo-LightItalic.woff2') format('woff2'),
+        url('../fonts/GEHeritageTwo-LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE Heritage Two';
+    src: url('../fonts/GEHeritageTwo-Bold.woff2') format('woff2'),
+        url('../fonts/GEHeritageTwo-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
