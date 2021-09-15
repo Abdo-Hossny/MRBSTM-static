@@ -16,3 +16,47 @@
     font-style: normal;
     font-display: swap;
 }
+@font-face {
+    font-family: 'Sakkal Majalla';
+    src: url('../fonts/SakkalMajalla.woff2') format('woff2'),
+        url('../fonts/SakkalMajalla.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+@font-face {
+    font-family: 'GE Heritage One';
+    src: url('../fonts/GEHeritageOne-Bold.woff2') format('woff2'),
+        url('../fonts/GEHeritageOne-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE Heritage One';
+    src: url('../fonts/GEHeritageOne-Medium.woff2') format('woff2'),
+        url('../fonts/GEHeritageOne-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE Heritage One';
+    src: url('../fonts/GEHeritageOne-UltraLight.woff2') format('woff2'),
+        url('../fonts/GEHeritageOne-UltraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'GE Heritage One';
+    src: url('../fonts/GEHeritageOne-Light.woff2') format('woff2'),
+        url('../fonts/GEHeritageOne-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
